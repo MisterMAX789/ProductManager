@@ -44,4 +44,8 @@ out/
 !gradle/wrapper/gradle-wrapper.jar
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**
+<<<<<<< HEAD
 !**/src/test/**
+=======
+!**/src/test/**
+>>>>>>> 6a2d19e (add files)
